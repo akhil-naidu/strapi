@@ -1,0 +1,28 @@
+{
+  "key": "core_admin_project-settings",
+  "value": {
+    "menuLogo": {
+      "name": "https://res.cloudinary.com/leewardslope/image/upload/v1680262558/LOGO_48x48_px_221002a760.png",
+      "hash": "LOGO_48x48_px_221002a760_6fe912d838",
+      "url": "https://res.cloudinary.com/leewardslope/image/upload/v1680436621/LOGO_48x48_px_221002a760_6fe912d838.png",
+      "width": 201,
+      "height": 201,
+      "ext": ".png",
+      "size": 6.66,
+      "provider": "cloudinary"
+    },
+    "authLogo": {
+      "name": "https://res.cloudinary.com/leewardslope/image/upload/v1680262558/LOGO_48x48_px_221002a760.png",
+      "hash": "LOGO_48x48_px_221002a760_8ed35908a0",
+      "url": "https://res.cloudinary.com/leewardslope/image/upload/v1680436621/LOGO_48x48_px_221002a760_8ed35908a0.png",
+      "width": 201,
+      "height": 201,
+      "ext": ".png",
+      "size": 6.66,
+      "provider": "cloudinary"
+    }
+  },
+  "type": "object",
+  "environment": null,
+  "tag": null
+}
