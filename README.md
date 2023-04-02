@@ -1,5 +1,10 @@
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/H7Hd5f?referralCode=I9okFq)
 
+```
+git remote add upstream https://github.com/contentql/NEW_REPOSITORY_NAME.git
+git push upstream
+```
+
 ## ✨ Features
 
 - Strapi
