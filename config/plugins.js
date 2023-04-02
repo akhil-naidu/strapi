@@ -18,6 +18,18 @@ module.exports = ({ env }) => ({
       },
     },
   },
+  graphql: {
+    config: {
+      endpoint: "/graphql",
+      shadowCRUD: true,
+      playgroundAlways: false,
+      apolloServer: {
+        tracing: false,
+        introspection: true,
+      },
+    },
+  },
+
   // upload: {
   //   config: {
   //     providerOptions: {
