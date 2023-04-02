@@ -4,10 +4,11 @@
   "version": "0.1.0",
   "description": "A Strapi application",
   "scripts": {
-    "develop": "strapi develop",
-    "start": "strapi start && config-sync import --yes --force",
+    "develop": "config-sync export --yes && strapi develop ",
+    "start": "config-sync import --yes && strapi start",
     "build": "strapi build",
-    "strapi": "strapi"
+    "strapi": "strapi",
+    "cs": "config-sync"
   },
   "dependencies": {
     "@strapi/plugin-graphql": "^4.9.0",
