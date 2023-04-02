@@ -10,6 +10,9 @@
       "action": "api::blog.blog.findOne"
     },
     {
+      "action": "api::home.home.find"
+    },
+    {
       "action": "plugin::users-permissions.auth.callback"
     },
     {
